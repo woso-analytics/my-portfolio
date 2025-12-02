@@ -29,5 +29,5 @@ export const socialLinks = {
   github: "https://github.com/joel-chad",
   // instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/in/joel-chadambuka-110a681a7/",
-  email: "mailto:joelchadwicks@gmail.com",
+  email: "mailto:joelchadambuka@gmail.com",
 };
