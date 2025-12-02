@@ -15,13 +15,44 @@ export default function Page() {
           priority
         />
       </a>
-      <h1 className="mb-8 text-2xl font-medium">Hie! I am Joel!</h1>
+      <h1 className="mb-8 text-2xl font-medium">Hello there! I am Joel!</h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
           I am a software engineer and data analyst with a passion for building
           scalable web applications and analyzing data to drive business
           insights. 
         </p>
+        
+        <p>
+          I love data analysis and visualization. I
+          have experience in using tools like{" "}
+          <a
+            href="https://pandas.pydata.org/"
+            target="_blank"
+            className="underline"
+          >
+            pandas
+          </a>
+          ,{" "}
+          <a
+            href="https://matplotlib.org/"
+            target="_blank"
+            className="underline"
+          >
+            Matplotlib
+          </a>
+          , and{" "}
+          <a
+            href="https://plotly.com/"
+            target="_blank"
+            className="underline"
+          >
+            Plotly
+          </a>{" "}
+          to analyse and visualise data. I enjoy turning complex data sets into
+          actionable insights that can help businesses make informed decisions.      
+        </p>
+
         <p>
          I have experience in full-stack web development. I love working with{" "}
           <a
@@ -51,35 +82,6 @@ export default function Page() {
           applications for performance and accessibility.
         </p>
         <p>
-          I am also passionate about data analysis and visualization. I
-          have experience in using tools like{" "}
-          <a
-            href="https://pandas.pydata.org/"
-            target="_blank"
-            className="underline"
-          >
-            pandas
-          </a>
-          ,{" "}
-          <a
-            href="https://matplotlib.org/"
-            target="_blank"
-            className="underline"
-          >
-            Matplotlib
-          </a>
-          , and{" "}
-          <a
-            href="https://plotly.com/"
-            target="_blank"
-            className="underline"
-          >
-            Plotly
-          </a>
-          to analyze and visualize data. I enjoy turning complex data sets into
-          actionable insights that can help businesses make informed decisions.      
-        </p>
-        <p>
           In my free time, I enjoy doing my own projects projects, learning
           new technologies, and sharing my knowledge with the community. You can
           find some of my work analysing women's football on{" "}
@@ -88,7 +90,7 @@ export default function Page() {
             target="_blank"
             className="underline"
           >
-            Twitter
+            X, formerly Twitter 
           </a>          
         </p>
         
