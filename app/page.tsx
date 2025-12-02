@@ -82,8 +82,8 @@ export default function Page() {
           applications for performance and accessibility.
         </p>
         <p>
-          In my free time, I enjoy doing my own projects projects, learning
-          new technologies, and sharing my knowledge with the community. You can
+          In my free time, I enjoy doing my own projects, learning
+          new technologies, and sharing knowledge. You can
           find some of my work analysing women's football on{" "}
           <a
             href="https://x.com/woso_analytics"

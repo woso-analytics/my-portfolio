@@ -27,7 +27,7 @@ export const metaData = {
 export const socialLinks = {
   twitter: "https://x.com/woso_analytics",
   github: "https://github.com/joel-chad",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:joelchadambuka@gmail.com",
+  // instagram: "https://www.instagram.com/",
+  linkedin: "https://www.linkedin.com/in/joel-chadambuka-110a681a7/",
+  email: "mailto:joelchadwicks@gmail.com",
 };
